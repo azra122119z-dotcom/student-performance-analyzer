@@ -15,4 +15,4 @@ print("good")
 elif avg>=50:
 print("need improvement ")
 else:
-print("very poor") ok?
+print("very poor")
